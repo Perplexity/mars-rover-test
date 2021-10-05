@@ -1,0 +1,15 @@
+{
+  "name": "mars-rover-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "mars-rover.spec.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^27.2.4"
+  }
+}
